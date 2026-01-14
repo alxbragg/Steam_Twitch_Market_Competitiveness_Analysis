@@ -10,7 +10,7 @@ This project examines the relationship between Steam game market saturation, use
 
 <p align="center">
   <img src="images/Screenshot 2026-01-14 180545.png" width="45%" />
-  <img src="images/Screenshot 2026-01-14 180626.png" width="45%" height="300px" />
+  <img src="images/Screenshot 2026-01-14 180626.png" width="45%" />
 </p>
 ## Dashboard Pages
 
