@@ -31,6 +31,11 @@ This project examines the relationship between Steam game market saturation, use
 
 
 ## Key Insights
+**Market Saturation Does Not Guarantee Engagement**
+- Action and Indie genres dominate total review volume on Steam, indicating heavy market saturation, but this does not consistently translate into high Twitch watch time. Several highly reviewed games show relatively low viewer engagement, suggesting that player adoption and spectator interest follow different dynamics.
+**A Small Number of Titles Drive Disproportionate Attention**
+- Across both reviews and watch time, a small subset of games (e.g., Counter-Strike 2, major live-service titles) account for a large share of total engagement. This “winner-take-most” pattern highlights a highly competitive environment where new releases must compete not just within their genre, but against entrenched market leaders.
+  - Some of these titles, such as Counter-Strike 2 have massive, well established e-sports scene (competitive play).
 
 ## Future Extensions
 
