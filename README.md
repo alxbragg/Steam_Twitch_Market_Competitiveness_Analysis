@@ -12,6 +12,7 @@ This project examines the relationship between Steam game market saturation, use
   <img src="images/Screenshot 2026-01-14 180545.png" width="45%" />
   <img src="images/Screenshot 2026-01-14 180626.png" width="45%" />
 </p>
+
 ## Dashboard Pages
 
 ## Key Insights
@@ -19,6 +20,8 @@ This project examines the relationship between Steam game market saturation, use
 ## Future Extensions
 
 ## Limitations & Assumptions
+- Genre categorization was non-trivial because games often have multiple genre tags, leading to multiple rows per game. As a result, genre-level analysis reflects tag presence rather than mutually exclusive genre classification.
+- Some games contained corrupted or incomplete Steam records and were excluded from the Steam analysis. These titles still appear in Twitch data where available, which may cause minor discrepancies between platform comparisons.
 
 ## Tools & Skills Demonstrated
 
