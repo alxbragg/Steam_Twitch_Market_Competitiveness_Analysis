@@ -72,7 +72,8 @@ This project examines the relationship between Steam game market saturation, use
 - Genre categorization was non-trivial because games often have multiple genre tags, leading to multiple rows per game. As a result, genre-level analysis reflects tag presence rather than mutually exclusive genre classification.
 - Some games contained corrupted or incomplete Steam records and were excluded from the Steam analysis. These titles still appear in Twitch data where available, which may cause minor discrepancies between platform comparisons.
 
-## Tools & Skills Demonstrated
+## Conclusion
+This project highlights the complexity of the PC gaming market by demonstrating that popularity, engagement, and competitiveness are influenced by multiple, interconnected factors rather than a single success metric. By analyzing Steam review data alongside Twitch watch and play time, the analysis shows that high market saturation increases competition without guaranteeing sustained visibility or engagement. The findings emphasize the importance of differentiating products, aligning engagement strategies with audience behavior, and planning beyond short-term trending momentum. Ultimately, this project reinforces how integrated, multi-source analysis can support more informed strategic decisions in highly competitive digital marketplaces.
 
 
 
