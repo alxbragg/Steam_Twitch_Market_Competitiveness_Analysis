@@ -36,7 +36,7 @@ This project examines the relationship between Steam game market saturation, use
 
 **A Small Number of Titles Drive Disproportionate Attention**
 - Across both reviews and watch time, a small subset of games (e.g., Counter-Strike 2, major live-service titles) account for a large share of total engagement. This “winner-take-most” pattern highlights a highly competitive environment where new releases must compete not just within their genre, but against entrenched market leaders.
-  - Some of these titles, such as Counter-Strike 2 have massive, well established e-sports scene (competitive play).
+  - Some of these titles, such as Counter-Strike 2 have massive, well established e-sports scenes (competitive play).
 
 **Review Sentiment Trends Scale with Release Volume**
 - Genres experiencing rapid growth in the number of releases also show sharp increases in both positive and negative reviews over time. This indicates that higher production volume increases visibility and engagement, but also amplifies criticism, raising the reputational risk for developers entering saturated genres.
